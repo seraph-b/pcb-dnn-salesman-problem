@@ -1,0 +1,6 @@
+deviation: 0.03
+discount_rate: 0.95
+episodes: 5000
+learning_rate: 0.001
+test_period: 100
+tests: 10
